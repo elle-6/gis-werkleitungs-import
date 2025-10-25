@@ -171,18 +171,4 @@ Das Tool kann erweitert werden für:
 - REST API Integration
 - Automatische Backups
 
-## Lizenz
 
-MIT License - siehe LICENSE Datei
-
-## Autor
-
-[Dein Name]
-
-## Kontakt
-
-Bei Fragen oder Problemen erstelle bitte ein Issue auf GitHub.
-
----
-
-**Entwickelt für die Verwaltung von Werkleitungsnetzen in Schweizer Gemeinden und Städten.**
