@@ -263,9 +263,9 @@ if __name__ == "__main__":
     # Konfiguration aus Umgebungsvariablen lesen (sicherer als Hardcoding)
     db_config = {
         'host': os.getenv('DB_HOST', 'localhost'),
-        'database': os.getenv('DB_NAME', 'basler_hofmann'),
-        'user': os.getenv('DB_USER', 'tomo'),
-        'password': os.getenv('DB_PASSWORD', 'tomo')
+        'database': os.getenv('DB_NAME', 'xxx'),
+        'user': os.getenv('DB_USER', 'xxx'),
+        'password': os.getenv('DB_PASSWORD', 'xxx')
     }
     
     # Excel-Datei aus Command Line Argument
